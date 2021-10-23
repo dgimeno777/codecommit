@@ -131,3 +131,7 @@ dmypy.json
 # Terraform files
 .terraform/
 terraform.tfstate
+terraform.tfstate.backup
+
+# MacOS
+.DS_Store
