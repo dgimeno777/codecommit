@@ -1,4 +1,4 @@
 # codecommit
 
 ## About
-This is a basic Github-based repository for testing AWS Codecommit integration.
+This is a basic Github-based repository for testing AWS CodeCommit integration.
