@@ -5,6 +5,6 @@ locals {
 
 variable "tag_project_key" {
   type        = string
-  description = "describe your variable"
-  default     = "codecommit"
+  description = "The project tag key"
+  default     = "Project"
 }
