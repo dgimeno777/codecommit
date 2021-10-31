@@ -1,8 +1,8 @@
 terraform {
   backend "s3" {
-    bucket = "dgimeno-repos"
-    key    = "codecommit/s3/terraform.tfstate"
-    region = "us-east-1"
+    bucket  = "dgimeno-repos"
+    key     = "codecommit/s3/terraform.tfstate"
+    region  = "us-east-1"
     profile = "codecommit"
   }
   required_providers {
